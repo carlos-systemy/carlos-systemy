@@ -7,11 +7,10 @@
  <p>
 ✔idade:21 anos
  <p>
-  <br>
- ✔Endereço Vitota de Santo Antão-Pe
- <br>
+ ✔Endereço Vitota de Santo Antão-PE
+  <P>
  ✔Formação:Sistemas de Informação(2019-2022)
- <br>
+<P>
  
  #Minhas habilidades
  <br>
