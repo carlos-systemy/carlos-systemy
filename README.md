@@ -1,16 +1,28 @@
 ### Hi there 👋
+## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador full-stack
+<h1> programação 💻 ,jogos🕹<h1>
+ 
+ 
+ #sobre mim🧑
+✔idade:21 anos
+  <br>
+ ✔Endereço Vitota de Santo Antão-Pe
+ <br>
+ ✔Formação:Sistemas de Informação(2019-2022)
+ <br>
+ 
+ #Minhas Habilidades
+ ✔html
+ <br>
+ ✔css
+ <br>
+ ✔javaScript
+ <br>
+  ☎📞 me contate:
+✔E-mail:carlossilvafilho9@gmail.com
 
-<!--
-**carlos-systemy/carlos-systemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+✔Linkedln:linkedin.com/in/carlos-andré-866972191 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical
