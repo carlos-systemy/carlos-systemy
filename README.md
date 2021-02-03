@@ -20,7 +20,7 @@
  <br>
  ✔javaScript
  <br>
-  ☎📞 me contate:
+  ☎📞 meus contatos:
 ✔E-mail:carlossilvafilho9@gmail.com
 
 <br>
