@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador full-stack
-<h1> programação 💻 ,jogos🕹<h1>
+<h1> programação 💻 ,jogos🕹<h1>   
  
  
  #sobre mim🧑
