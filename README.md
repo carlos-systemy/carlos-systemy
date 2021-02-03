@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there  
 ## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador full-stack
-<h1> tecnol💻,jogos🕹<h1>
+<h1> tecnologia, jogos.
  
  
  #sobre mim🧑
@@ -26,4 +26,4 @@
 ✔Linkedln:linkedin.com/in/carlos-andré-866972191 
 
 <br>
-https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical)
