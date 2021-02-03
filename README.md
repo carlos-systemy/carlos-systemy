@@ -3,8 +3,10 @@
 <h1> tecnologia, jogos.
  
  
- #sobre mim🧑
+ #sobre mim
+ <p>
 ✔idade:21 anos
+ <p>
   <br>
  ✔Endereço Vitota de Santo Antão-Pe
  <br>
