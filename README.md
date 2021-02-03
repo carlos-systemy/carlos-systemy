@@ -27,4 +27,4 @@
 ✔Linkedln:linkedin.com/in/carlos-andré-866972191 
 
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical
