@@ -1,16 +1,16 @@
 ### Hi there  
 ## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador full-stack
-<h1> tecnologia, jogos.
+<h1> tecnologia, jogos.<h1>
  
  
- #sobre 
- <P>##
+ #sobre mim
+ <P>
 ✔idade:21 anos
- <p>##
+ <p>
  ✔Endereço Vitota de Santo Antão-PE
-  <P>##
+  <P>
  ✔Formação:Sistemas de Informação(2019-2022)
-<P>##
+<P>
  
  #Minhas habilidades
  <br>
