@@ -3,7 +3,7 @@
 <h1> tecnologia, jogos.<h1>
  
  
- #sobre mim
+ #Sobre mim
  <P>
 ✔idade:21 anos
  <p>
@@ -27,4 +27,4 @@
 ✔Linkedln:linkedin.com/in/carlos-andré-866972191 
 
 <br>
-https://github-readme-stats.vercel.app/api?username=carlos-systemy&show_icons=true&theme=radical
+
