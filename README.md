@@ -1,5 +1,5 @@
 ### Olá 👋
-## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador full-stack
+## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador mobile
 <h1> tecnologia, jogos.<h1>
  
  
