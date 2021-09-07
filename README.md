@@ -1,30 +1,13 @@
-### Olá 👋
-## Meu nome é Carlos André sou um estudante de programação ,caminhando para ser um programador mobile
-<h1> tecnologia, jogos.<h1>
- 
- 
- #Sobre mim
- <P>
-✔idade:21 anos
- <p>
- ✔Endereço Vitota de Santo Antão-PE
-  <P>
- ✔Formação:Sistemas de Informação(2019-2022)
-<P>
- 
- #Minhas habilidades
- <br>
- ✔html
- <br>
- ✔css
- <br>
- ✔javaScript
- <br>
-  ☎📞 meus contatos:
-✔E-mail:carlossilvafilho9@gmail.com
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-<br>
-✔Linkedln:linkedin.com/in/carlos-andré-866972191 
+### Olá meu nome é Carlos  👋
+Sou graduando em sistemas de informações em busca de oportunidades e colaborações em projetos .
+- 🔭 tenho 21 anos .
+- 🌱 tenho sede de conhecimento.
+- 🤝 sou de Vitoria de Santo Antão -PE. 
 
-<br>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?carlos-systemy=carlos-systemy)
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/carlos-andré-866972191) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carlos_filho19/) 
 
