@@ -1,7 +1,7 @@
 
 
 ### Olá meu nome é Carlos  👋
-Sou graduando em sistemas de informações em busca de oportunidades e colaborações em projetos .
+Sou graduando em sistemas de informações(7/8) em busca de oportunidades e colaborações em projetos .
 - 🔭 tenho 22 anos .
 - 🌱 tenho sede de conhecimento.
 - 🤝 sou de Vitoria de Santo Antão -PE. 
